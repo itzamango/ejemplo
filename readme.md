@@ -335,9 +335,12 @@ as.data.frame(goles.local) %>%
   theme_minimal() -> e.local
 ggplotly(e.local) #versión interactiva
 ```
+<img src="https://github.com/itzamango/ejemplo/blob/1e8342896427dae3253b82459d8ed736e5ccde77/2021-06-26_12h48_45.png?raw=true">
 
 
-![img 1]:(https://github.com/itzamango/ejemplo/blob/d5caeab47d7d81db0240f486c629a0721650ed6e/2021-06-26_12h48_45.png)
+
+.
+![img1]:(https://github.com/itzamango/ejemplo/blob/1e8342896427dae3253b82459d8ed736e5ccde77/2021-06-26_12h48_45.png?raw=true)
 
 
 Ahora calcularemos la probabilidad para el equipo visitante:
