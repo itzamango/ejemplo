@@ -337,7 +337,7 @@ ggplotly(e.local) #versión interactiva
 ```
 
 
-[img 1]:(https://github.com/itzamango/ejemplo/blob/d5caeab47d7d81db0240f486c629a0721650ed6e/2021-06-26_12h48_45.png)
+![img 1]:(https://github.com/itzamango/ejemplo/blob/d5caeab47d7d81db0240f486c629a0721650ed6e/2021-06-26_12h48_45.png)
 
 
 Ahora calcularemos la probabilidad para el equipo visitante:
